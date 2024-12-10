@@ -1,4 +1,6 @@
-This peice of software is a hobby project of mine.
+This piece software is a hobby project of mine. I am deeply inspired by the work of the Voigt lab at MIT, in paticular their Cello project. They have made enourmous, real progress, in the expanding the scale in synthetic biology and biocomputing projects through deisgn automation.
+
+***********************************************************************************************************************************************
 
 The software includes a fully functional GUI (my first time doing something like this), which allows the user to build different network topologies of genetic circuits.
 
